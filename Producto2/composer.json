@@ -1,0 +1,26 @@
+{
+    "name": "grego/producto2",
+    "description": "Producto2",
+    "autoload": {
+        "psr-4": {
+            "Grego\\Producto2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VisiGoyo",
+            "email": "79362138+gvisiedo@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "APP\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+
+    },
+
+}
