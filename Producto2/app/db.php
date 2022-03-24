@@ -4,7 +4,7 @@
 $server = 'localhost';
 $username = 'root';
 $password = '';
-$database = '';
+$database = 'phpdb';
 //$port = '3306';
 $db = mysqli_connect($server, $username, $password, $database);
 
